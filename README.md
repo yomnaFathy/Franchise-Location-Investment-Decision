@@ -6,10 +6,14 @@ Site location analysis and franchise territory mapping is a vital part of busine
 ![Barcelona Cluster Map](/images/BarcelonaClusterMap.png)
 ![Liverpool Cluster Map](/images/LiverpoolClusterMap.png)
 
-Technologies
+### Technologies
 - Google Colab
 - Pyhton 3.7
 - Beatiful Soup
 - Python Geopy
 - FourSquare API
 - K-Means un-supervised algorithm
+- Folium Maps
+
+`Franchise_Descision.ipynb` Contains Analysis code and results  
+See notebook as html: [Franschise_Descision.html](https://yomnafathy.github.io/Franchise-Location-Investment-Decision/Franschise_Descision.html)
