@@ -16,4 +16,4 @@ Site location analysis and franchise territory mapping is a vital part of busine
 - Folium Maps
 
 `Franchise_Descision.ipynb` Contains Analysis code and results  
-See notebook as html: [Franschise_Descision.html](https://yomnafathy.github.io/Franchise-Location-Investment-Decision/Franschise_Descision.html)
+See notebook as html: [Franschise_Descision.html](https://yomnafathy.github.io/Franchise-Location-Investment-Decision/Franchise_Descision.html)
